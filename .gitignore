@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Database files
+pgdata/
+*.sqlite
+
+# Compiled files
+dist/
+build/
+.DS_Store
+
+# VS Code & system files
+.vscode/
+.idea/
+Thumbs.db
